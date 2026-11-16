@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Restricted DHS Microdata (Never commit to GitHub)
+*.zip
+*.ZIP
+*.dta
+*.DTA
+*.sav
+*.SAV
+*.parquet
